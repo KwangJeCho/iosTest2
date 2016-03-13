@@ -21,6 +21,7 @@ class ViewController: UIViewController {
     }
     //test 합니다
     // 변경1
+    print("하하하하")
     
 
 }
